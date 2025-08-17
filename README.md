@@ -28,7 +28,7 @@ The dataset used contains housing data with features such as the number of bedro
 ```
 .
 ├── data.csv          # Dataset file
-├── linear_regression.py   # Main implementation
+├── house_price_prediction.py   # Main implementation
 └── README.md         # Project documentation
 ```
 
