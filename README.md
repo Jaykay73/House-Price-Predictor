@@ -58,25 +58,6 @@ The dataset used contains housing data with features such as the number of bedro
 
 ---
 
-## Example Usage
-
-```bash
-python linear_regression.py
-```
-
-Example output during training:
-
-```
-Epoch 0: MSE = 45000000000.00
-Epoch 100: MSE = 32000000000.00
-...
-Final Mean Squared Error: 29000000000.00
-R-squared: 0.74
-Predicted Price: 450000.23
-```
-
----
-
 ## Prediction Example
 
 To predict the price of a new house, provide its features:
